@@ -40,7 +40,7 @@ const projects = [
     website: "https://vannefilmes.online/",
     repository_url: "https://github.com/gaby0832/vanne-movies-website",
     image: "/vannefilmes.png",
-    icon: "/vannefilmesico.png",
+    icon: "/vannefilmesicon.png",
     description: (
       <>
         Este projeto é um site desenvolvido com <strong>Next.js</strong> que
