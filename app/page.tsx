@@ -55,7 +55,7 @@ const projects = [
     name: "Gab Dot Dev",
     repository: "gabyg0832/gab-dot-dev",
     website: "https://github.com/gaby0832",
-    repository_url: "https://github.com/gaby0832",
+    repository_url: "https://github.com/gaby0832/gaby-portifolio",
     image: "/gabportifolio.png",
     icon: "/gabportifolioicon.png",
     description: (
