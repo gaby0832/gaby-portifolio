@@ -142,7 +142,7 @@ export default function Home() {
       <header className="mx-auto flex max-w-[1500px] flex-col justify-between gap-8 px-6 pb-8 pt-12 sm:px-10 lg:flex-row lg:px-11 lg:pt-14">
         <div className="min-w-0 flex-1">
           <h1 className="font-mono text-5xl font-bold leading-[1.05] tracking-tight sm:text-7xl lg:text-[76px]">
-            Gab.Dev
+            Gaby.Dev
           </h1>
 
           <p className="mt-1 font-mono text-lg sm:text-xl">
